@@ -1,0 +1,22 @@
+[  
+      {  
+           "Picture":"img/1.jpg",
+           "ID":"1921378642",
+           "NAME":"Sadiar Rahman Sovon",
+           "Department":"ECE Department(7th Semester)"
+      },  
+      
+      {  
+          "Picture":"img/2.jpg",
+           "ID":"1921832042",
+           "NAME":"Tarikul Islam Saykat",
+           "Department":"ECE Department(7th Semester)"
+      },  
+      {  
+          "Picture":"img/3.jpg",
+           "ID":"1921177042",
+           "NAME":"Zannatul Ferdous Ananna",
+           "Department":"ECE Department(7th Semester)"
+      }
+    
+ ] 
